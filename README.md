@@ -1,1 +1,1 @@
-# miniproject
+# This is my mini Cv project
